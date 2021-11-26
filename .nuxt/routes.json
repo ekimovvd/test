@@ -1,0 +1,58 @@
+[
+  {
+    "name": "10",
+    "path": "/10",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\10\\\\index.vue",
+    "chunkName": "pages/10/index",
+    "_name": "_0c6a0838"
+  },
+  {
+    "name": "106",
+    "path": "/106",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\106\\\\index.vue",
+    "chunkName": "pages/106/index",
+    "_name": "_e8ded98c"
+  },
+  {
+    "name": "12",
+    "path": "/12",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\12\\\\index.vue",
+    "chunkName": "pages/12/index",
+    "_name": "_092e46a2"
+  },
+  {
+    "name": "47",
+    "path": "/47",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\47\\\\index.vue",
+    "chunkName": "pages/47/index",
+    "_name": "_09a0d600"
+  },
+  {
+    "name": "48",
+    "path": "/48",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\48\\\\index.vue",
+    "chunkName": "pages/48/index",
+    "_name": "_02e13a5f"
+  },
+  {
+    "name": "87",
+    "path": "/87",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\87\\\\index.vue",
+    "chunkName": "pages/87/index",
+    "_name": "_9588a1f8"
+  },
+  {
+    "name": "95",
+    "path": "/95",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\95\\\\index.vue",
+    "chunkName": "pages/95/index",
+    "_name": "_d7492a72"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Веб\\\\Projects\\\\qr\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d6c093a"
+  }
+]
